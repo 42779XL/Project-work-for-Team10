@@ -1,0 +1,2 @@
+# Project-work-for-Team10
+I couldn't push my files to team repo. The error is  ! [rejected]        master -> master (non-fast-forward) error: failed to push some refs to 'git@github.com:jteickholt/Team10Project1_Repo.git' hint: Updates were rejected because the tip of your current branch is behind hint: its remote counterpart. Integrate the remote changes (e.g. hint: 'git pull ...') before pushing again. hint: See the 'Note about fast-forwards' in 'git push --help' for details. Therefore, I'll have to submit my work here.
